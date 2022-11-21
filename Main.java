@@ -9,10 +9,9 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 /**
  *
- * @author Rawdah
+ * @author H3D
  */
 public class Main {
 
