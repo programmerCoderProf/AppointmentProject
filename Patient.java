@@ -6,7 +6,7 @@
 package project;
 /**
  *
- * @author Rawda
+ * @author H3D
  */
 public class Patient extends Person{
     
