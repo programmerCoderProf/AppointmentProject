@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author Rawda
+ * @author H3D
  */
 public class Appointment {
     //class data members
