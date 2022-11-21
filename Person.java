@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 package project;
-
 /**
  *
- * @author Rawda
+ * @author H3D
  */
 public class Person {
 
